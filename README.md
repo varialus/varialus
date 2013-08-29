@@ -20,12 +20,11 @@ Prerequisite: Port Go to DragonFly - Go (C/Assembly/Perl, BSD)
 12. Go - gc (C/Assembly/Perl, BSD)
 13. Python - CPython (C, Python Software Foundation License)
 14. c++2go - From Scratch
-15. java2go - From Scratch
-16. Java - Apache Harmony (C++/Java, Apache)
-17. Office Suite - Apache OpenOffice (C++/Java, Apache)
-18. c2go - From Scratch
-19. Virtualization - Jail (C, BSD)
-20. Operating System Utilities - DragonFly BSD (C, BSD)
-21. Operating System Kernel - DragonFly BSD (C, BSD)
-22. Emulation - GXemul (C/C++, BSD)
-23. Windows Emulation - Add x86 to GXemul (C/C++, BSD)
+15. Java - Apache Harmony (C++/Java, Apache)
+16. Office Suite - Apache OpenOffice (C++/Java, Apache)
+17. c2go - From Scratch
+18. Virtualization - Jail (C, BSD)
+19. Operating System Utilities - DragonFly BSD (C, BSD)
+20. Operating System Kernel - DragonFly BSD (C, BSD)
+21. Emulation - GXemul (C/C++, BSD)
+22. Windows Emulation - Add x86 to GXemul (C/C++, BSD)
