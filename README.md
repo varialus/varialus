@@ -6,8 +6,8 @@ Estimated Porting Priority and Interest
 
 Prerequisite: Port Go to DragonFly - Go (C/Assembly/Perl, BSD)
 
-1. Display Client API - XGB: X Go Binding (Go, BSD)
-2. Window Manager - Wingo (Go, WTFPL)
+1. Display Client API - XCB: X C Bindings (C, MIT) -> XGB: X Go Binding (Go, BSD)
+2. Window Manager - From Scratch -> Wingo (Go, WTFPL)
 3. Widget Toolkit - Agar (C, BSD)
 4. Text Editor - Leo (Python, MIT)
 5. Terminal Emulator - xterm (C, MIT)
