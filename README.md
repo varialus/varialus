@@ -29,8 +29,8 @@ Prerequisite: Port Go to DragonFly - Go (C/Assembly/Perl, BSD)
 21. Emulation - GXemul (C/C++, BSD)
 22. Windows Emulation - Add x86 to GXemul (C/C++, BSD)
 
-Environment Overview
---------------------
+Development Environment Overview
+--------------------------------
 
 1. Install DragonFly BSD (in VirtualBox) - http://www.dragonflybsd.org/varialus/
 2. Install Go - https://github.com/varialus/godfly
